@@ -18,3 +18,11 @@ Ou -> __Underline__ -> mas não pode ter espaço
 
 Texto riscado -> ~Texto entre til's~
 
+***
+
+Lista numerada:
+
+1. Teste
+1. teste 2
+1. Teste 3
+1. Teste 4
