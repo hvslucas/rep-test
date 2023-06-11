@@ -53,3 +53,15 @@ E isso aqui
 ![pngwing com](https://github.com/hvslucas/rep-test/assets/123264352/2e16e033-094d-4860-9fc6-9eb8ba9213a4)
 
 [Acesse meu github](https://github/hvslucas)
+
+
+***
+### Tabelas
+
+
+Num | Nome | Notas
+---|--|---
+1 | Ana | 7
+---|--|---
+2 | Bia | 8
+---|--|---
