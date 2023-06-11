@@ -41,7 +41,7 @@ Lista demarcada:
 
 Lista de Tarefas:
 
-- [] Criar página principal
-- [] Criar página da loja
+- [ ] Criar página principal
+- [ ] Criar página da loja
 - [x] Finalizar a reunião com o usuário
-- [] Fazer imposto de renda
+- [ ] Fazer imposto de renda
