@@ -25,4 +25,16 @@ Lista numerada:
 1. Teste
 1. teste 2
 1. Teste 3
+    1. Esse é uma sublista
+    2. Outro item
 1. Teste 4
+
+Lista demarcada:
+
+* Teste
+* Teste
+   *Sublista
+   *SubLista
+* Teste
+- Teste
+- Teste
