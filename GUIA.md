@@ -1,4 +1,4 @@
-# Esse é o título
+# Esse é o título :avocado::calendar:
 para título nível 1, iniciar o arqv com "#"
 ## Título nível 2
 para título nível 2, com "##"
@@ -64,3 +64,15 @@ Num | Nome | Notas
 1 | Ana | 7
 2 | Bia | 8
 3 | Lucas | 10
+***
+
+Não entendo o comando `document.getElementById()` do JS
+
+Olha só esse pedaço de código
+
+```
+let num1 = 8;
+let num2 = 10;
+let num3  = num1 + num2;
+console.log(num3);
+```
