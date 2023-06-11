@@ -47,3 +47,7 @@ Lista de Tarefas:
 - [ ] Fazer imposto de renda
 Vamos fingir que isso já estava aqui
 E isso aqui
+
+![pngwing com](https://github.com/hvslucas/rep-test/assets/123264352/2e16e033-094d-4860-9fc6-9eb8ba9213a4)
+
+[Acesse meu github](https://github/hvslucas)
