@@ -45,3 +45,5 @@ Lista de Tarefas:
 - [ ] Criar página da loja
 - [x] Finalizar a reunião com o usuário
 - [ ] Fazer imposto de renda
+Vamos fingir que isso já estava aqui
+E isso aqui
