@@ -62,6 +62,5 @@ E isso aqui
 Num | Nome | Notas
 ---|---|---
 1 | Ana | 7
----|---|---
 2 | Bia | 8
----|---|---
+3 | Lucas | 10
