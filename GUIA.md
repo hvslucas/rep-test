@@ -33,10 +33,12 @@ Lista demarcada:
 
 * Teste
 * Teste
-    *Sublista
-   *Sublista
-   *SubLista
+    * SubLista
+    * SubLista
 * Teste
+
+
+- Teste
 - Teste
 - Teste
 
