@@ -13,3 +13,16 @@ p {
     text-align: justify;
 }
 
+#buttons {
+    width: 8vw;
+    height: 4vh;
+    background-color: #2c0069;
+    color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    border-radius: 2vh;
+}
+
+#mainchange {
+    background-color: #ac5c5c;
+}
